@@ -1,3 +1,2 @@
-# gulplays
-#https://agentnice.github.io/gulplays/
+# gulplays https://agentnice.github.io/gulplays/
 
